@@ -1,4 +1,4 @@
-Welcome to the Bible Study App's documentation!
+JEFF SANDBOX Welcome to the Bible Study App's documentation -JEFF SANDBOX!
 ===============================================
 
 The **Bible Study App** is a free, opensource application provided by And Bible that gives users  an advanced
