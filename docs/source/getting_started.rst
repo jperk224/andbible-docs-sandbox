@@ -67,7 +67,9 @@ How to sideload apps on WSA:
 Changing the look and feel
 --------------------------
 
-You can use the workspace "All Text Options" to change the font size and font colors of document texts. You can access these from the kabab menu on the top right (aka three vertical dots).
+You can use the workspace "All Text Options" to change the look and feel of document texts. You can access these options from the kabab menu on the top right (aka three vertical dots).
+Use this menu to adjust various |app| appearance options including font size and type, text and background colors, toggling words of Christ in red, and more.
+
 Alternatively you can use the individual window text options to override the workspace settings. Tap and hold the square window icon at the bottom and choose "Text Options" then "All Text Options".
 
 For things that can not be changed through these menus, like the color of certain texts within a module, e.g. Strong's numbers, you can code the color in the style.css file located within  a zip package. You can use HiSB Bible module to see the structure and placement of this file, it should be located in the modules/texts/ztext/hisb/style directory.
